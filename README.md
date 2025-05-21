@@ -1,7 +1,7 @@
-# Proyek Predict App 
+# Project Predict App 
 
 ### Persiapan
-Sumber data: [Students_Performance_data_set.xlsx] (https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv)
+Sumber data: [Students_Performance_data_set.xlsx] (https://data.mendeley.com/datasets/dc3797vf3t/1?utm_source=chatgpt.com))
 
 Setup environment:
 ```

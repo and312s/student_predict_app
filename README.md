@@ -1,7 +1,7 @@
 # Project Predict App 
 
 ### Persiapan
-Sumber data: [Students_Performance_data_set.xlsx](https://data.mendeley.com/datasets/dc3797vf3t/1?utm_source=chatgpt.com))
+Sumber data: [Students_Performance_data_set.xlsx](https://data.mendeley.com/datasets/dc3797vf3t/1?utm_source=chatgpt.com)
 
 Setup environment:
 ```
